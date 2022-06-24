@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my personal GitHub
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={hikari-8}&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={hikari-8}&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username={hikari-8}&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **hikari-8/hikari-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
