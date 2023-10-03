@@ -9,7 +9,7 @@
   </a>
 </h3>
 <h5 align="center">
-  <code><a href="https://twitter.com/hikari_pint/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> Twitter </a></code>
+  <code><a href="https://twitter.com/hikari_pint/" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> Twitter </a></code>
 </h5>
 <hr>
 
