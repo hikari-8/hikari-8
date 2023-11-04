@@ -16,7 +16,7 @@
   <br>
   :office: &nbsp;I'm currently working at <a href="https://articsapp.com/">Artics</a>, <a href="https://www.copalette.app/">CoPalette</a>
   <br>
-  📩 This is my <a href="https://www.wantedly.com/id/hikari_inoue_pint">Wantedly MyPage</a>
+  📩 This is my <a href="https://www.wantedly.com/id/hikari_inoue_pint">Wantedly</a>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
