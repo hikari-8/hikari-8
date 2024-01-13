@@ -14,7 +14,7 @@
 <hr>
 
   <br>
-  :office: &nbsp;I'm currently working at <a href="https://www.copalette.app/">CoPalette</a>
+  :office: &nbsp;I'm currently working at <a href="https://articsapp.com/ja">Artics</a>
   <br>
   📩 This is my <a href="https://www.wantedly.com/id/hikari_inoue_pint">Wantedly</a>
   <br>
