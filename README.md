@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hikari+Inoue😎;Pleasure+to+see+you!🎉&font=Fira+Code&weight=600&center=true&size=25&color=00D7CA">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Hikari+Inoue😎;Pleasure+to+see+you!🎉&font=Fira+Code&weight=600&center=true&size=25&color=00D7CA">
   </a>
 </h3>
 <h5 align="center">
